@@ -1,0 +1,6 @@
+@MiniSupermarket_TranTheKiet_HostAddress = http://localhost:5241
+
+GET {{MiniSupermarket_TranTheKiet_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
