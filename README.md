@@ -475,16 +475,6 @@ dotnet build MiniSupermarket.WinForms --no-restore
 
 ---
 
-## 📚 12. Tài liệu trong Dự án
-
-* [README_HUONG_DAN.md](README_HUONG_DAN.md): hướng dẫn của phiên bản tiêu chí 11–50.
-* [TIEU_CHI_11_50.md](TIEU_CHI_11_50.md): vị trí mã nguồn, kịch bản demo và câu hỏi vấn đáp.
-* [BAI_THUC_HANH_BUOI_4.md](BAI_THUC_HANH_BUOI_4.md): ghi chú của giai đoạn thực hành WinForms Shell; một số cấu hình và quyền menu thuộc phiên bản trước.
-* [verification/integration.py](verification/integration.py): mã kiểm thử tích hợp qua HTTP.
-
-README này mô tả cấu hình và chức năng từ mã nguồn hiện tại. Các ghi chú kiểm thử trong tài liệu cũ gắn với thời điểm thực hiện tương ứng.
-
----
 
 ## 👨‍💻 13. Tác giả
 
